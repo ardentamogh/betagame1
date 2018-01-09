@@ -1,0 +1,33 @@
+{ "height":50,
+ "infinite":false,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJzVWEFyEzEQVGF4SC7cc+GeC9fYgeRqkZAb8AIIHwD8AZziAYEXBN6GFqyqdrt7pN04oUhVVzZeaTStmZ4ZJ6W\/P48KZhs8ht+9mAV4IjCbcIY6b5HStwQ\/RwXH\/yFOiMdiz\/bnEzBl7wvicUC29s2nd230t7L70vCI7ukuWDbQ4rcEO8jjVOijxaPlS4Qc2J+nXU74LgfvmcdiQjzG+DlWTzlYh+u5XkV5NeWex+pV+a1iwHa5XiGP3rrT42vuhMtbfK\/OdPUK77\/uwfOm1NOpQA6s9956tRT7e+92X1D64piwzg\/FfSD3u9SqqcB8QP+RB+vD1V3WyteC9QPgOu3mgtIs68PVXb6btbB1lzrFd6XOiepVbz\/n\/Wg\/C7tzetczY6hccjwYkT74XMWDfczJa7S+b\/Uh9HeVtvMJ7aDdVv\/gmsU8enoUx0Txr3q7pr0r4bO6p6h\/uDzgeLt+2coZxE3B94If5OOK\/sbnqH9w3UUfFI9j8c7NXS5Ow\/Ntwc+CX7RuDfszPDOP1ryrZmqXV9xn8BzO7ZziGCoePMtF\/WORdmNRbbi8Unk0T9tncl5jHOfmM8UD7eG66PugqiGRPlRMqt9KbxxnpR\/FQ8XD6YPnTOZxI85XdXN4flPwtuBd2o0Z525OfTxy2s4FpY9j2qO0fCPOz7Sn+vi+4EPBFXHEO3J1W+lc8T1M2z8LWOdqv8orN98Nvz8VfC74QhzcvMTnqHrFe46IxwHta\/VB1ibXFlVfctqOOdcLN5dEPBaCx5zWu7rrNMH6ivSA75Dv2Hg8DXhwLXH2Xe1XHDPZU\/keneN4PGvwiPqg0hH2Cj6\/Vadb+uC7wH3PiQfW3eqLugNln\/OYddZC7jyH72zAGfGoc4njoerh8DnOq6ytTODeXsF9Zlj3Me3mL9+Z0kedSyIeOe3OJTivcn64+YiBfSbKX6VF1keLh6uHOK9ybnF+YewyAPuMijvyYF2N0Yeq66wN7pkckwEYO17DnLnuOh6sD+4frXgofyMMdjh2DPTbzbstfYzlofx0MXG6d+B4OK0qfWBeqT4V9fOxwLtlW5WLm0uw5il9YN119zy8v033\/z+4mntqLsHcUvrAesX3E+XLfQPjVjmNma9y8rnDNfwhgFzw80gfKl8RyAU5qbX7gIpJ\/dzpw61nzSgdqf7H98G64\/g6Lm4mcPrgecL509s7+Fzuma1cwnXKZmu+imw6f3t1i+B75zNxHfdKpQ\/1fTDyHde4u1Sfs98qn9Qe1\/d756tWjqhznM8KvEfVlij33PcPhzFzRc\/5Y\/11cPr4F+CcHwP1\/eMk\/fl\/6ajf9bkFZyOyG+F0A9bHq4LzgouC1wWXm2f+7NzgAoB7Ky4Fzsn+8HwmbKuz656qj99KszN7",
+         "encoding":"base64",
+         "height":50,
+         "name":"Tile Layer 1",
+         "offsetx":12,
+         "offsety":480,
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":50,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.1.0",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"mountain_landscape.tsx"
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":1,
+ "width":50
+}

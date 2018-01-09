@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="mountain_landscape.tsx"/>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmM0OgjAQhDeiD+LFuxfvXryjwl2Q9/JRLUqTZlLwhwM7m51kAjWh7Tb9hqLIW6vgYvA6uX7rYsKbjIs/xsiNV4o8JNFROHWGOsqF5jFXF6hju9A85upqpI7KCB9YBysfmFes+wrzirUOzytdQs73C81jrpAP1txFPlhz1/nQJX9/6BLywbqvrJx3/XtQl5wPXcL1Z+UD15+VD1x/1jp20Gat4wBt1jpO0GbN3RrarLmLfLDmLvLBWodVPljzyur7g3VfIR+suYt8sOaV86FLzocuWT1fsXJu9XzFyrlVPvo6zvL6v/Sna7z/5LE+pvqdcjUY+bgFN8Ft8D24G+7xt2bEbeL02egu4wb67+/rTN+5seMzkY8nw7pHgA==
+  </data>
+ </layer>
+</map>
